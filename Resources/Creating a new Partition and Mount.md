@@ -82,7 +82,8 @@ UUID=<your-uuid> /data ext4 defaults 0 2
 
 Test your mount for errors before rebooting. 
 ```bash
-sudo mount -a
+$ sudo mount -a
+$ 
 ```
 ### Conclusion
 
